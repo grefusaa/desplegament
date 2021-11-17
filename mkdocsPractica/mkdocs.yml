@@ -1,1 +1,9 @@
-site_name: Desplegament
+site_name: Pelis
+
+theme: readthedocs
+
+extra:
+
+ social:
+
+copyright: Copyright &copy; 2021-2022 Mario Solazzi
